@@ -21,3 +21,8 @@ Other Technology
   * ViewBinding
   *  CardView
   * Material Design
+
+<p align="center">
+  <img src="Screenshot_1619697839.png" width="350" title="hover text">
+  <img src="Screenshot_1619697853.png" width="350" alt="accessibility text">
+</p>
