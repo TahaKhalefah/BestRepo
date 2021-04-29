@@ -15,9 +15,9 @@ in this app, I am using Model View ViewModel (MVVM) + Facade +Singlton + Depende
 
 Other Technology
 ----------------
-  Kotlin
-  Coroutine
-  Pagination
-  ViewBinding
-  CardView
-  Material Design
+  * Kotlin
+  * Coroutine
+  * Pagination
+  * ViewBinding
+  *  CardView
+  * Material Design
