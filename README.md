@@ -21,6 +21,7 @@ Other Technology
   * ViewBinding
   *  CardView
   * Material Design
+  * Coil
 
 <p align="center">
   <img src="Screenshot_1619697839.png" width="350" title="hover text">
