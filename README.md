@@ -11,7 +11,7 @@ in this app, I am using Model View ViewModel (MVVM) + Facade +Singlton + Depende
   
 - MVVM the best design architecture I prefer it that help make my code readable and more organized and we can be testing it easy 
 
-- Dependency Injection  Using Dagger-Hilt Make my code more readable and Reduced boilerplate and we can testing the app easily 
+- Dependency Injection  Using Dagger-Hilt Make my code more readable and Reduced boilerplate code and we can testing the app easily 
 
 Other Technology
 ----------------
